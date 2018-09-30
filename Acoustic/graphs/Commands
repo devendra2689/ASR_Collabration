@@ -1,0 +1,16 @@
+Running Python
+=========================
+
+jupyter notebook
+
+
+=============================
+Command for plotting graphs using gnu plot
+---------------------------
+
+gnuplot adaBoost.plot
+gnuplot svm.plot
+gnuplot all.plot
+gnuplot randomForest_entropy.plot
+gnuplot randomForest_gini.plot
+
